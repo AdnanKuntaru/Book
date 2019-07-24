@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Book</string>
+    <string name="error_loading_data_from_google_api">Error loading data from google api</string>
+    <string name="search"> Search</string>
+    <string name="searchkey"> please insert keyword</string>
+</resources>
